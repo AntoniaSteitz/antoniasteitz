@@ -1,6 +1,6 @@
 ### Hi there 👋 <br>
 
-My name is Antonia Steitz. I'm a Web Developer, focussed on Front End Development with a background in Graphic Design. Based in Berlin, Germany. <br>
+My name is Antonia. I'm a Web Developer, focussed on Front End Development with a background in Graphic Design. Based in Berlin, Germany. <br>
 
 👩🏻‍💻  I just finished the LeWagon Full Stack Web Development Bootcamp in June 2023. <br>
 🌱  I’m currently learning more about UX and UI Design. <br>
